@@ -15,7 +15,7 @@ Tap right side of screen = Move Right
 Eat food, grow longer, don't hit walls!
 
 ### 🚀 Run the game:
-
+![Snake Game Demo](Screenshot_20260603_133517.jpg)
 
 
 
